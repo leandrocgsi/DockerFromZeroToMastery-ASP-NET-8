@@ -5,7 +5,7 @@
 ![Forks](https://img.shields.io/github/forks/leandrocgsi/DockerFromZeroToMastery-ASP-NET-8)
 ![Stars](https://img.shields.io/github/stars/leandrocgsi/DockerFromZeroToMastery-ASP-NET-8)
 ![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/DockerFromZeroToMastery-ASP-NET-8)
-[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/docker-from-zero-to-mastery-java.svg)](https://hub.docker.com/repository/docker/leandrocgsi/docker-from-zero-to-mastery-java)
+[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/docker-from-zero-to-mastery-dotnet.svg)](https://hub.docker.com/repository/docker/leandrocgsi/docker-from-zero-to-mastery-dotnet)
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/leandrocgsi/DockerFromZeroToMastery-ASP-NET-8)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
