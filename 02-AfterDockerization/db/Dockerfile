@@ -1,4 +1,4 @@
-FROM mysql:5.7.22
+FROM mysql:8.3.0
 EXPOSE 3306
 
 COPY ./DockerFromZeroToMastery/db/migrations/ /home/database/migrations/ \
